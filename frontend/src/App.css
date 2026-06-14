@@ -1,0 +1,31 @@
+.message {
+  background: white;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 10px;
+  border-left: 5px solid #007bff;
+}
+
+.answer {
+  line-height: 1.7;
+}
+
+.answer h1,
+.answer h2,
+.answer h3 {
+  margin-top: 10px;
+}
+
+.answer p {
+  margin: 8px 0;
+}
+
+.answer ul {
+  padding-left: 20px;
+}
+
+.answer code {
+  background: #f3f3f3;
+  padding: 2px 5px;
+  border-radius: 4px;
+}

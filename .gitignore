@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+backend/uploads/
+backend/vector_store/
+
+frontend/node_modules/
+
+backend/check_models.py
+backend/list_models.py
+backend/test_gemini.py
